@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabyfinn&label=Profile%20views&color=0e75b6&style=flat" alt="gabyfinn" /> </p>
 
+## 🧐 About
+I'm Uzzante Ernesto Gabriel, a fullstack web developer graduated from the SoyHenry bootcamp.
+Also a student of the Bachelor of Information Systems at the University of Santiago del Estero.
+
+Actively looking for new job and study opportunities to continue growing in the IT world that I am so passionate about.
+
 - 📫 How to reach me **gabrieluzzante@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
