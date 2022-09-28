@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F77F1A&width=435&lines=Bienvenidos+al+GitHub+de+Gabyfinn;Desarrollador+Fullstack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F77F1A&width=600&lines=Bienvenidos+al+GitHub+de+Gabyfinn;Desarrollador+Fullstack)](https://git.io/typing-svg)
 
 <h1 align="center">Hola 👋, soy Gabriel Uzzante</h1>
 <!--
