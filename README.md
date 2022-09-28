@@ -1,9 +1,10 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F1A&width=435&lines=Bienvenidos+al+GitHub+de+Gabyfinn;Desarrollador+Fullstack)](https://git.io/typing-svg)
 
+<h1 align="center">Hola 👋, soy Gabriel Uzzante</h1>
 <!--
 **gabyfinn/gabyfinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F1A&width=435&lines=Bienvenidos+al+GitHub+de+Gabyfinn;Desarrollador+Fullstack)](https://git.io/typing-svg)
+
 
 Here are some ideas to get you started:
 
